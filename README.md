@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Al Haq Solutions
 
-## Getting Started
+Production catalogue website for Al Haq Solutions, a telecom and internet-device seller focused on unlocked routers, portable Wi-Fi devices, antennas, connectors, and router backup accessories.
 
-First, run the development server:
+## Live Site
+
+[al-haq-solutions.vercel.app](https://al-haq-solutions.vercel.app)
+
+## Highlights
+
+- Product-category landing flow for routers, portable devices, and accessories.
+- Individual product pages with images, pricing, compatibility notes, and WhatsApp order links.
+- Responsive Next.js app using the App Router, TypeScript, Tailwind CSS, and optimized static rendering.
+- Deployed on Vercel for continuous availability.
+
+## Tech Stack
+
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS
+- Vercel
+
+## Local Development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Production Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+## Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```text
+app/
+  accessories/        Accessory category and product pages
+  portables/          Portable Wi-Fi category and product pages
+  routers/            Router category and product pages
+public/
+  accessories/        Product and category images
+  portables/
+  routers/
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Status
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Verified with:
 
-## Deploy on Vercel
+```bash
+npm run build
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built and maintained by [Muhammad Faizan Ali](https://github.com/FaizanAli7005).

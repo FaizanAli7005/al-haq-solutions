@@ -71,7 +71,7 @@ export default function Home() {
             Al Haq Solutions
           </h1>
           <p className="mt-1 text-xs text-[#4d5c52] text-center">
-            Unlocked Internet Devices • Portable Wi‑Fi • Antennas & Accessories
+            Unlocked Internet Devices | Portable Wi-Fi | Antennas & Accessories
           </p>
         </div>
 
