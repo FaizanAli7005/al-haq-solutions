@@ -59,4 +59,4 @@ npm run build
 
 ## Author
 
-Built and maintained by [Muhammad Faizan Ali](https://github.com/FaizanAli7005).
+Built and maintained by [Muhammad Faizan Ali](https://github.com/FaizanAli7005), BSCS student at FAST NUCES Lahore.
