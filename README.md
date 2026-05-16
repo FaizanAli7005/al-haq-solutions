@@ -2,16 +2,16 @@
 
 Production catalogue website for Al Haq Solutions, a telecom and internet-device seller focused on unlocked routers, portable Wi-Fi devices, antennas, connectors, and router backup accessories.
 
-## Live Site
+## Deployment
 
-[al-haq-solutions.vercel.app](https://al-haq-solutions.vercel.app)
+Connected to Vercel for production deployments.
 
 ## Highlights
 
 - Product-category landing flow for routers, portable devices, and accessories.
 - Individual product pages with images, pricing, compatibility notes, and WhatsApp order links.
 - Responsive Next.js app using the App Router, TypeScript, Tailwind CSS, and optimized static rendering.
-- Deployed on Vercel for continuous availability.
+- Configured for Vercel deployment.
 
 ## Tech Stack
 
