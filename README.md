@@ -1,17 +1,17 @@
 # Al Haq Solutions
 
-Production catalogue website for Al Haq Solutions, a telecom and internet-device seller focused on unlocked routers, portable Wi-Fi devices, antennas, connectors, and router backup accessories.
+Production catalogue website for Al Haq Solutions, a telecom and internet-device brand founded by Muhammad Faizan Ali. The business focuses on unlocked routers, portable Wi-Fi devices, antennas, connectors, and router backup accessories.
 
-## Deployment
+## Live Site
 
-Connected to Vercel for production deployments.
+[alhaqsolutions.vercel.app](https://alhaqsolutions.vercel.app/)
 
 ## Highlights
 
 - Product-category landing flow for routers, portable devices, and accessories.
 - Individual product pages with images, pricing, compatibility notes, and WhatsApp order links.
 - Responsive Next.js app using the App Router, TypeScript, Tailwind CSS, and optimized static rendering.
-- Configured for Vercel deployment.
+- Deployed on Vercel as the live catalogue for my own business.
 
 ## Tech Stack
 
@@ -59,4 +59,4 @@ npm run build
 
 ## Author
 
-Built and maintained by [Muhammad Faizan Ali](https://github.com/FaizanAli7005), BSCS student at FAST NUCES Lahore.
+Built and maintained by [Muhammad Faizan Ali](https://github.com/FaizanAli7005), founder of Al Haq Solutions and BSCS student at FAST NUCES Lahore.
