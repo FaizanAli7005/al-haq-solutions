@@ -38,6 +38,24 @@ const PRODUCTS: Product[] = [
       "4G hotspot with external antenna support for low‑signal areas. Perfect for remote locations, travel and CCTV monitoring.",
     image: "/portables/e5573s-1.jpg",
   },
+  {
+    id: "portable-4",
+    slug: "verizon-8800l",
+    name: "Verizon Jetpack MiFi 8800L 4G LTE Unlocked Portable WiFi Device (PTA Approved)",
+    price: "Rs. 9,000",
+    shortDescription:
+      "Premium CAT 18 LTE hotspot with dual-band WiFi, touchscreen controls, USB-C charging and TS9 antenna ports.",
+    image: "/portables/verizon_1.jpg",
+  },
+  {
+    id: "portable-5",
+    slug: "netgear-mr1100",
+    name: "Netgear Nighthawk M1 MR1100 4G LTE Unlocked Portable WiFi Router",
+    price: "Rs. 15,000",
+    shortDescription:
+      "High-performance LTE Cat 16 mobile router with dual-band WiFi, Ethernet port, LCD display and removable battery.",
+    image: "/portables/netgear_1.jpg",
+  },
 ];
 
 export default function PortablesPage() {
