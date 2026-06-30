@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alhaqsolutions.vercel.app/sitemap.xml
